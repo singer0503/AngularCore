@@ -3,7 +3,7 @@
 方便快速入門<br>
 因為使用指令 dotnet new angular 產生出來的範本專案是Angular 5 <br>
 剛好最近學習了Angular 7 以及 Material 7.3.5 <br>
-就將兩者與.Net Core 2.1 做了整合, 近期會再更新範例.... <br><br>
+就將兩者與.Net Core 2.1 做了整合, 近期會再更新範例.... <br>
 
 Combine Template Angular 7 + Angular Material 7.3.5 + .Net Core 2.1  <br>
 Easy quick start  <br>
