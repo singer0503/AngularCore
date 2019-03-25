@@ -19,6 +19,6 @@ dotnet restore AngularCore.csproj
 
 執行 start 
 ```bash
-bashdotnet run
+dotnet run
 ```
 
