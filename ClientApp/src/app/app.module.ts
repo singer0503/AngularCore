@@ -4,21 +4,19 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 
-import { AppComponent } from './app.component';
+import { AppComponent, DialogContentComponent } from './app.component';
 
 
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { AppMaterialModule } from './app.material.module';
-import { FormSampleComponent } from './form-sample/form-sample.component';
-import { NavSampleComponent } from './nav-sample/nav-sample.component';
 import { LayoutModule } from '@angular/cdk/layout';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FormSampleComponent,
-    NavSampleComponent
+    DialogContentComponent
   ],
+  entryComponents: [DialogContentComponent],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     AppMaterialModule,
