@@ -13,7 +13,7 @@ Put the latest version to do integration.  <br>
 
 ### Status
 
-![travis](https://travis-ci.org/Ismaestro/angular7-example-app.svg?branch=master)
+![travis](https://travis-ci.org/singer0503/AngularCore.svg?branch=master)
 
 
 ### Quick start 快速開始
