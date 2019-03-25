@@ -13,8 +13,12 @@ cd AngularCore
  ```
 
 執行套件還原 using dotnet cli restore package 
-`dotnet restore AngularCore.csproj`
+```bash
+dotnet restore AngularCore.csproj
+```
 
 執行 start 
-`dotnet run`
+```bash
+bashdotnet run
+```
 
