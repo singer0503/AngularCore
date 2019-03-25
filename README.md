@@ -11,6 +11,11 @@ running dotnet new angular in a terminal/console window, Created is Angular 5.  
 Recently we are learning angular,  <br>
 Put the latest version to do integration.  <br>
 
+### Status
+
+![travis](https://travis-ci.org/Ismaestro/angular7-example-app.svg?branch=master)
+
+
 ### Quick start 快速開始
 >請檢查您的 Node 以及 npm 以及 dotnet Core 的版本, Node版本 > 10.5 , npm > 6.8 , dotnet core > 2.1<br>
 Verify that you are running at least node 10.5.x and npm 6.8.x and dotnat core 2.1 by running node -v and npm -v and dotnet --version in a terminal/console window. Older versions produce errors, but newer versions are fine.
